@@ -1,6 +1,6 @@
 {
   "name": "RChain DAO",
-  "logoURI": "https://raw.githubusercontent.com/rchaindao/publicity/main/assets/rdao_icon_512.png",
+  "logoURI": "https://raw.githubusercontent.com/rchaindao/publicity/main/assets/RDAO_Circle_512.png",
   "keywords": [
       "rchain",
       "rdao",
@@ -14,7 +14,7 @@
       "name": "RChainDao",
       "symbol": "RDAO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/rchaindao/publicity/main/assets/rdao_icon_64.png"
+      "logoURI": "https://raw.githubusercontent.com/rchaindao/publicity/main/assets/RDAO_Circle_64.png"
       }
     ],
     "version": {
