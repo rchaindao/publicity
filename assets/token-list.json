@@ -1,0 +1,25 @@
+{
+  "name": "RChain DAO",
+  "logoURI": "https://raw.githubusercontent.com/rchaindao/publicity/main/assets/RDAO_Logo_250.png",
+  "keywords": [
+      "rchain",
+      "rdao",
+      "dao"
+    ],
+    "timestamp": "2022-07-06T07:38:52.811+00:00",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xc8754E609cb35C1D04D50734761beC38b7dA9278",
+      "name": "RChainDao",
+      "symbol": RDAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rchaindao/publicity/main/assets/rdao_logo_64x64.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
