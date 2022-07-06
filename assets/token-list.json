@@ -12,7 +12,7 @@
       "chainId": 1,
       "address": "0xc8754E609cb35C1D04D50734761beC38b7dA9278",
       "name": "RChainDao",
-      "symbol": RDAO",
+      "symbol": "RDAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rchaindao/publicity/main/assets/rdao_logo_64x64.png"
       }
